@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Eshwor Kumar Roy</h1>
+<h1 align="center">Hi , I'm Eshwor Kumar Roy</h1>
 <h3 align="center">Compititive Programmer From Bangladesh</h3>
 
-- 🌱 I’m currently learning **DBMS**
+- 🌱 I’m currently learning **Data Structure and Algorithm**
 
 - 📫 How to reach me **ekroy16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codeforces.com/profile/ek_roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ek_roy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
