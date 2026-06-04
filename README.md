@@ -1,21 +1,9 @@
 <h1 align="center">Hi , I'm Eshwor Kumar Roy</h1>
-<h3 align="center">Competitive Programmer From Bangladesh</h3>
+<h3 align="center">Compititive Programmer From Bangladesh</h3>
 
-- 🌱 I'm currently learning **Data Structure and Algorithm**
+- 🌱 I’m currently learning **Data Structure and Algorithm**
 
 - 📫 How to reach me **ekroy16@gmail.com**
-
----
-
-## 🏆 My Codeforces Profile
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-EK__Roy-1f71ff?logo=codeforces&logoColor=white&style=for-the-badge)](https://ekroy.github.io/codeforces-profile-card/?user=EK_Roy)
-
-### 👉 [Click here to view my interactive Codeforces profile](https://ekroy.github.io/codeforces-profile-card/?user=EK_Roy)
-
-*View my rating, rank, statistics, and profile chart - updated in real-time!*
-
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
