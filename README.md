@@ -1,4 +1,4 @@
-<h1 align="center"> I'm Eshwor Kumar Roy</h1>
+<h1 align="center">Assalamualaikum, I'm Eshwor Kumar Roy</h1>
 
 <h3 align="center">A passionate competitive programmer from Bangladesh</h3>
 
@@ -11,12 +11,24 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://codeforces.com/profile/EK_Roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="EK_Roy" height="30" width="40" />Codeforces</a>
-<a href="https://www.codechef.com/users/ek_roy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ek_roy" height="30" width="40" />Codechef</a>
-<a href="https://atcoder.jp/users/EK_Roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atcoder/atcoder-original.svg" alt="EK_Roy" height="30" width="40" />AtCoder</a>
-<a href="https://cses.fi/user/EK_Roy" target="blank">CSES</a>
-<a href="https://lightoj.com/user/ek_roy" target="blank">LightOJ</a>
-<a href="https://leetcode.com/EK_Roy" target="blank">LeetCode</a>
+<a href="https://codeforces.com/profile/EK_Roy" target="blank"><img src="https://img.shields.io/badge/Codeforces-EK__Roy-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+<a href="https://www.codechef.com/users/ek_roy" target="blank"><img src="https://img.shields.io/badge/CodeChef-ek__roy-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+<a href="https://atcoder.jp/users/EK_Roy" target="blank"><img src="https://img.shields.io/badge/AtCoder-EK__Roy-222222?style=for-the-badge" alt="AtCoder"/></a>
+<a href="https://leetcode.com/EK_Roy" target="blank"><img src="https://img.shields.io/badge/LeetCode-EK__Roy-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://cses.fi/user/EK_Roy" target="blank"><img src="https://img.shields.io/badge/CSES-EK__Roy-4A90D9?style=for-the-badge" alt="CSES"/></a>
+<a href="https://lightoj.com/user/ek_roy" target="blank"><img src="https://img.shields.io/badge/LightOJ-ek__roy-2E8B57?style=for-the-badge" alt="LightOJ"/></a>
+</p>
+
+<h3 align="left">Total Problems Solved:</h3>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Codeforces-0-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="CF solved"/>
+<img src="https://img.shields.io/badge/CodeChef-0-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CC solved"/>
+<img src="https://img.shields.io/badge/AtCoder-0-222222?style=flat-square" alt="AtCoder solved"/>
+<img src="https://img.shields.io/badge/LeetCode-0-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode solved"/>
+<img src="https://img.shields.io/badge/CSES-0-4A90D9?style=flat-square" alt="CSES solved"/>
+<img src="https://img.shields.io/badge/LightOJ-0-2E8B57?style=flat-square" alt="LightOJ solved"/>
+<img src="https://img.shields.io/badge/Total-0-brightgreen?style=flat-square" alt="Total solved"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
