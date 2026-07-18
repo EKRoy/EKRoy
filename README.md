@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate programmer from Bangladesh</h3>
 
-- 🧑‍💻 I’m currently working on competitive Programming in [Codeforces](www.codeforces.com/saidul_1)
+- 🧑‍💻 I’m currently working on competitive Programming in [Codeforces](www.codeforces.com/EK_Roy)
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
