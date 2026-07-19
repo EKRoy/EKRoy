@@ -1,4 +1,4 @@
-<h1 align="center">Assalamualaikum, I'm Eshwor Kumar Roy</h1>
+<h1 align="center"> I'm Eshwor Kumar Roy</h1>
 
 <h3 align="center">A passionate competitive programmer from Bangladesh</h3>
 
