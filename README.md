@@ -4,7 +4,7 @@
 
 - 🧑‍💻 I'm currently working on competitive programming on [Codeforces](https://codeforces.com/profile/EK_Roy)
 
-- 🌱 I'm currently learning **Number Theory**
+- 🌱 I'm currently learning **Dynamic Programming**
 
 - 📫 How to reach me **ekroy16@gmail.com**
 
